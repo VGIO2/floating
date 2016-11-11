@@ -1,0 +1,41 @@
+/* Pon tu código css aqui */
+
+
+.caja{
+    border: solid 2px #ded9d9;
+    width: 600px;
+    
+}
+.amarillo, .azul, .rojo{
+    width: 150px;
+    height: 100px;
+    
+}
+.amarillo{
+    background-color: yellow;
+    float: right;
+    
+}
+.azul{
+    background-color: #1919fa;
+     float: right;
+}
+.rojo{
+    background-color: #e50606;
+     float: right;
+}
+
+.navegador{
+    position: absolute;
+    margin-top: 120px;
+    margin-left: 520px;
+}
+.navegador a{
+    text-decoration: none;
+    position: relative;
+    left: 120px;
+    font-family: cursive;
+    font-size: 20px;
+    border: double 1px;#000;
+    padding: 5px;
+}

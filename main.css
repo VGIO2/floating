@@ -1,0 +1,36 @@
+body{
+    background-image: url(fondo.jpg);
+    background-size:100% 100%;
+    background-attachment: fixed;
+}
+.circulo{
+    width: 500px;
+    height: 500px;
+    border: 10px double #eab1b1;
+    border-radius: 100%;
+    margin-left: 430px;
+    margin-top: 120px;
+}
+.circulo ul{
+    list-style: none;   
+}
+.circulo p{
+    display: inline-block;
+    position: relative;
+    left: 150px;
+    margin-top: 70px;
+    margin-bottom: 45px;
+    font-size: 45px;
+    font-family: cursive;
+    color: #5199d8;
+}
+.circulo a{
+    text-decoration: none;
+    display: inline-block;
+    position: relative;
+    left: 150px;
+    margin: 14px;
+    font-size: 30px;
+    font-family: cursive;
+    color: #ea5353;
+}
